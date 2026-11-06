@@ -1,0 +1,6 @@
+{
+  "name": "MOCKMATE",
+  "description": "AI-powered interview preparation platform with calibrated question generation, six-dimension answer evaluation, STAR coaching, and session analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
